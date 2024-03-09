@@ -1,6 +1,5 @@
-# COGS118B Project template
-This is your group repo for your final project for COGS118B
+# COGS118B Project
 
-This is your repo. You are free to manage the repo as you see fit, edit this README, add data files, add scripts, etc. So long as there are the three files above on due dates with the required information, the rest is up to you all.
+The dataset is stored in a zip file because the original was too large for GitHub. 
 
-Also, you are free and encouraged to share this project after the course and to add it to your portfolio. Just be sure to fork it to your GitHub at the end of the quarter!
+Extract `RecipeNLG_bg_only.csv` from the zip file and place it in the same directory as the notebook.
